@@ -8,6 +8,10 @@ If you want to play the game, just download the .exe file :) Please note that th
 
 ## Screenshots
 
+<img width="1202" height="738" alt="Image" src="https://github.com/user-attachments/assets/12778329-f6ef-45ed-8f03-09de542324bf" />
 
+<img width="1202" height="738" alt="Image" src="https://github.com/user-attachments/assets/304d37fe-7ef4-4e64-bab3-947f7cc481d6" />
+
+<img width="1206" height="742" alt="Image" src="https://github.com/user-attachments/assets/9a483680-a79b-4988-abd5-e129043230fd" />
 
 
